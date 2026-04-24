@@ -12,7 +12,7 @@ const VARIANTS = {
     },
     'prog': {
         headline: 'Engineering Software\nSolutions',
-        tagline: 'Writing clean, robust, and scalable code in C, C++, and Java.',
+        tagline: 'Building robust, scalable server-side systems with Python, Django, and Node.',
         accent: '#ffaa00'
     }
 };
